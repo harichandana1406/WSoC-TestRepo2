@@ -7,26 +7,26 @@
 
 <!--- Fill in the details below before sending us a pull request -->
 
-Name : 
+Name : Srikurmum Harichandana
 
-Registration Number :
+Registration Number : 19BCE7380
 
-Email Address :
+Email Address : hari.19BCE7380@vitap.ac.in
 
-Frameworks I have worked on :
+Frameworks I have worked on : Backend
 
-Tools I have used : 
+Tools I have used : Jupyter Notebook
 
 <!--- To mark a checkbox, just add an x between the square brackets.
       Example : [ ] becomes [x] -->
       
 Tick the check boxes below if true : 
 
-- [ ] I know to use Git and GitHub (or willing to learn).
+- [x] I know to use Git and GitHub (or willing to learn).
 
-- [ ] This is my first Open Source Project.
+- [x] This is my first Open Source Project.
 
-- [ ] I have programmed on Python.
+- [x] I have programmed on Python.
 
 - [ ] I have worked on Django projects before.
 
